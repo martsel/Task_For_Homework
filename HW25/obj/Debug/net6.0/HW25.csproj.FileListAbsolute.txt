@@ -1,0 +1,15 @@
+C:\GeekBrains\изучение С#\seminar4\HW25\bin\Debug\net6.0\HW25.exe
+C:\GeekBrains\изучение С#\seminar4\HW25\bin\Debug\net6.0\HW25.deps.json
+C:\GeekBrains\изучение С#\seminar4\HW25\bin\Debug\net6.0\HW25.runtimeconfig.json
+C:\GeekBrains\изучение С#\seminar4\HW25\bin\Debug\net6.0\HW25.dll
+C:\GeekBrains\изучение С#\seminar4\HW25\bin\Debug\net6.0\HW25.pdb
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.csproj.AssemblyReference.cache
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.AssemblyInfoInputs.cache
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.AssemblyInfo.cs
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.csproj.CoreCompileInputs.cache
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.dll
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\refint\HW25.dll
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.pdb
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\HW25.genruntimeconfig.cache
+C:\GeekBrains\изучение С#\seminar4\HW25\obj\Debug\net6.0\ref\HW25.dll

@@ -1,0 +1,15 @@
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.csproj.AssemblyReference.cache
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.AssemblyInfoInputs.cache
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.AssemblyInfo.cs
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.csproj.CoreCompileInputs.cache
+C:\GeekBrains\изучение С#\seminar4\HW29\bin\Debug\net6.0\HW29.exe
+C:\GeekBrains\изучение С#\seminar4\HW29\bin\Debug\net6.0\HW29.deps.json
+C:\GeekBrains\изучение С#\seminar4\HW29\bin\Debug\net6.0\HW29.runtimeconfig.json
+C:\GeekBrains\изучение С#\seminar4\HW29\bin\Debug\net6.0\HW29.dll
+C:\GeekBrains\изучение С#\seminar4\HW29\bin\Debug\net6.0\HW29.pdb
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.dll
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\refint\HW29.dll
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.pdb
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\HW29.genruntimeconfig.cache
+C:\GeekBrains\изучение С#\seminar4\HW29\obj\Debug\net6.0\ref\HW29.dll
