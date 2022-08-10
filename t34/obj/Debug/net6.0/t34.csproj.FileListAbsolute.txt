@@ -1,0 +1,15 @@
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.csproj.AssemblyReference.cache
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.AssemblyInfoInputs.cache
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.AssemblyInfo.cs
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.csproj.CoreCompileInputs.cache
+C:\GeekBrains\изучение С#\seminar5\t34\bin\Debug\net6.0\t34.exe
+C:\GeekBrains\изучение С#\seminar5\t34\bin\Debug\net6.0\t34.deps.json
+C:\GeekBrains\изучение С#\seminar5\t34\bin\Debug\net6.0\t34.runtimeconfig.json
+C:\GeekBrains\изучение С#\seminar5\t34\bin\Debug\net6.0\t34.dll
+C:\GeekBrains\изучение С#\seminar5\t34\bin\Debug\net6.0\t34.pdb
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.dll
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\refint\t34.dll
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.pdb
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\t34.genruntimeconfig.cache
+C:\GeekBrains\изучение С#\seminar5\t34\obj\Debug\net6.0\ref\t34.dll
