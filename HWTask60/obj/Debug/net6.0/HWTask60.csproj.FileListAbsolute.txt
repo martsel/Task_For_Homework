@@ -1,0 +1,15 @@
+C:\GeekBrains\изучение С#\seminar7\HWTask60\bin\Debug\net6.0\HWTask60.exe
+C:\GeekBrains\изучение С#\seminar7\HWTask60\bin\Debug\net6.0\HWTask60.deps.json
+C:\GeekBrains\изучение С#\seminar7\HWTask60\bin\Debug\net6.0\HWTask60.runtimeconfig.json
+C:\GeekBrains\изучение С#\seminar7\HWTask60\bin\Debug\net6.0\HWTask60.dll
+C:\GeekBrains\изучение С#\seminar7\HWTask60\bin\Debug\net6.0\HWTask60.pdb
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.csproj.AssemblyReference.cache
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.AssemblyInfoInputs.cache
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.AssemblyInfo.cs
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.csproj.CoreCompileInputs.cache
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.dll
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\refint\HWTask60.dll
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.pdb
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\HWTask60.genruntimeconfig.cache
+C:\GeekBrains\изучение С#\seminar7\HWTask60\obj\Debug\net6.0\ref\HWTask60.dll
